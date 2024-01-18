@@ -20,11 +20,11 @@
 <p>Desenvolva um sistema capaz de atender as necessidades de
 informação de uma biblioteca universitária. São elas:</p>
 
-<p>- O sistema deve possuir um cadastro dos usuários com endereço completo e o curso ao qual está vinculado, assim como a data de início e de término previsto;</p>
-<p>- O sistema deve apresentar um cadastro das obras da biblioteca, com a devida classificação: livros científicos, periódicos científicos, periódicos informativos, periódicos diversos, entretenimento, etc.;</p>
-<p>- É necessário que a língua em que se encontra a obra seja definida;</p>
-<p>- A obra pode ser disponibilizada na biblioteca em diferentes mídias, assim, cada obra deve identificar em qual mídia a obra está sendo ofertada;</p>
-<p>- Para o cadastro dos autores das obras será necessário definir a sua nacionalidade;</p>
-<p>- O cadastro das editoras dos exemplares deve apresentar o ano de edição;</p>
-<p>- Os usuários poderão ser classificados como alunos, professores e funcionários, sendo que para os professores não serão considerados limites de volumes para empréstimos, nem possíveis atrasos na devolução destes.</p>
-<p>- O sistema deve permitir o histórico dos empréstimos</p>
+- O sistema deve possuir um cadastro dos usuários com endereço completo e o curso ao qual está vinculado, assim como a data de início e de término previsto;
+- O sistema deve apresentar um cadastro das obras da biblioteca, com a devida classificação: livros científicos, periódicos científicos, periódicos informativos, periódicos diversos, entretenimento, etc.;
+- É necessário que a língua em que se encontra a obra seja definida;
+- A obra pode ser disponibilizada na biblioteca em diferentes mídias, assim, cada obra deve identificar em qual mídia a obra está sendo ofertada;
+- Para o cadastro dos autores das obras será necessário definir a sua nacionalidade;
+- O cadastro das editoras dos exemplares deve apresentar o ano de edição;
+- Os usuários poderão ser classificados como alunos, professores e funcionários, sendo que para os professores não serão considerados limites de volumes para empréstimos, nem possíveis atrasos na devolução destes;
+- O sistema deve permitir o histórico dos empréstimos.
