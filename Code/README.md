@@ -1,1 +1,1 @@
-<h3>hO código deste projeto foi desenvolvido em C# no ambiente Visual Studio por Rebeca Lara e Stéfani Sant'ana.</h3>
+<h3>O código deste projeto foi desenvolvido em C# no ambiente Visual Studio por Rebeca Lara e Stéfani Sant'ana.</h3>
